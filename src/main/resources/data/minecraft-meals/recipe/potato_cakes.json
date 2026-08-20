@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:baked_potato",
+    "minecraft:wheat",
+    "minecraft:egg"
+  ],
+  "result": {
+    "id": "minecraft-meals:potato_cakes",
+    "count": 2
+  }
+}

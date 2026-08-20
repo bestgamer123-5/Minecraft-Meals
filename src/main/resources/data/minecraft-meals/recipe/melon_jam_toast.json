@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:bread",
+    "minecraft:melon_slice",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "minecraft-meals:melon_jam_toast"
+  }
+}
