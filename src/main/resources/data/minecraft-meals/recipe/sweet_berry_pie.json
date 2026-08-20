@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "WEW",
+    " S "
+  ],
+  "key": {
+    "S": "minecraft:sweet_berries",
+    "W": "minecraft:wheat",
+    "E": "minecraft:egg"
+  },
+  "result": {
+    "id": "minecraft-meals:sweet_berry_pie"
+  }
+}

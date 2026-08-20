@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:bowl",
+    "minecraft:pumpkin",
+    "minecraft:sugar"
+  ],
+  "result": {
+    "id": "minecraft-meals:pumpkin_soup"
+  }
+}

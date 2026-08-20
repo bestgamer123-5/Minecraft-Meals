@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:bread",
+    "minecraft:beetroot",
+    "minecraft:beetroot"
+  ],
+  "result": {
+    "id": "minecraft-meals:beetroot_bread"
+  }
+}

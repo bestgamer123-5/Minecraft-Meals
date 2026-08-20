@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:bowl",
+    "minecraft:carrot",
+    "minecraft:carrot",
+    "minecraft:baked_potato"
+  ],
+  "result": {
+    "id": "minecraft-meals:carrot_stew"
+  }
+}
