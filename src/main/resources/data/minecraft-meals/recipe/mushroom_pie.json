@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RBR",
+    "WEW",
+    " W "
+  ],
+  "key": {
+    "R": "minecraft:red_mushroom",
+    "B": "minecraft:brown_mushroom",
+    "W": "minecraft:wheat",
+    "E": "minecraft:egg"
+  },
+  "result": {
+    "id": "minecraft-meals:mushroom_pie"
+  }
+}

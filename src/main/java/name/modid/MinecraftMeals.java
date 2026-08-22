@@ -2,6 +2,8 @@ package name.modid;
 
 import net.fabricmc.api.ModInitializer;
 
+import name.modid.item.ModItems;
+
 import net.minecraft.resources.Identifier;
 
 import org.slf4j.Logger;
@@ -21,7 +23,7 @@ public class MinecraftMeals implements ModInitializer {
 		// However, some things (like resources) may still be uninitialized.
 		// Proceed with mild caution.
 
-		LOGGER.info("Hello Fabric world!");
+		ModItems.initialize();
 	}
 
 	public static Identifier id(String path) {

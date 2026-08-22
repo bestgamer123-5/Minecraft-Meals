@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:cookie",
+    "minecraft:glow_berries"
+  ],
+  "result": {
+    "id": "minecraft-meals:glow_berry_cookie",
+    "count": 2
+  }
+}
